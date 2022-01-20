@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/govind-sharma/35", {data:[{}],fetch:{},mutations:void 0});

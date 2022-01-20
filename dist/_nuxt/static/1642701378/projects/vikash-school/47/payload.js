@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/vikash-school/47", {data:[{}],fetch:{},mutations:void 0});

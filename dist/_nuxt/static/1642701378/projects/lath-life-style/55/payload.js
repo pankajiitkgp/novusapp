@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/lath-life-style/55", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/alok-vatika/53", {data:[{}],fetch:{},mutations:void 0});

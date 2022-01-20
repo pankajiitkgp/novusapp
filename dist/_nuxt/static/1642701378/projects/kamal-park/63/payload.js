@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/kamal-park/63", {data:[{}],fetch:{},mutations:void 0});

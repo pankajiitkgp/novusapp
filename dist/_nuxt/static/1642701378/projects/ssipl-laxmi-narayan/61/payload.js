@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/ssipl-laxmi-narayan/61", {data:[{}],fetch:{},mutations:void 0});

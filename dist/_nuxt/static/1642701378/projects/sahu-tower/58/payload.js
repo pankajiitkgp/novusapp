@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/sahu-tower/58", {data:[{}],fetch:{},mutations:void 0});

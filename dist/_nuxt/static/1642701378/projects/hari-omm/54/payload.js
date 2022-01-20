@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/hari-omm/54", {data:[{}],fetch:{},mutations:void 0});

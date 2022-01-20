@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/rajesh-sahu/39", {data:[{}],fetch:{},mutations:void 0});

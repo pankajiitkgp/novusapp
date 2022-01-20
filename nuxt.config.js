@@ -5,7 +5,6 @@ const meta = getSiteMeta()
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
   target: 'static',
   loading: {
     color: '#378208',

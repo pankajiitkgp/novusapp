@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/hotel-vinayak/50", {data:[{}],fetch:{},mutations:void 0});

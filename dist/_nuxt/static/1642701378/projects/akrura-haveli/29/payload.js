@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/akrura-haveli/29", {data:[{}],fetch:{},mutations:void 0});

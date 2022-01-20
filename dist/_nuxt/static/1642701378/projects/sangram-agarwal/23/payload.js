@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/sangram-agarwal/23", {data:[{}],fetch:{},mutations:void 0});

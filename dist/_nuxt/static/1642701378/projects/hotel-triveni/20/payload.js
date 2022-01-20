@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/hotel-triveni/20", {data:[{}],fetch:{},mutations:void 0});

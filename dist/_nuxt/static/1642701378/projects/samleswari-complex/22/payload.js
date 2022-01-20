@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/samleswari-complex/22", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/naarayan-residency/56", {data:[{}],fetch:{},mutations:void 0});

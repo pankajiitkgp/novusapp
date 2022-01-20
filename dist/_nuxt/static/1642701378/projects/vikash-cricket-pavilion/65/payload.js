@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/vikash-cricket-pavilion/65", {data:[{}],fetch:{},mutations:void 0});

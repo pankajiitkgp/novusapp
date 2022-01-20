@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/kapil-agarwal/36", {data:[{}],fetch:{},mutations:void 0});

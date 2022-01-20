@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/jivandeep-medical/12", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/hotel-royal-palace/48", {data:[{}],fetch:{},mutations:void 0});

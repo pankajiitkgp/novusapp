@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/akura-office/11", {data:[{}],fetch:{},mutations:void 0});
