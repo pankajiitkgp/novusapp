@@ -22,7 +22,7 @@
               <div id="lightgallery" class="img-thumbnail">
                 <a
                   :href="
-                    require('/static/projects/' +
+                    require('/static/projects_data/' +
                       item.category +
                       '/' +
                       item.subcategory +
@@ -35,7 +35,7 @@
                 >
                   <img
                     :src="
-                      require('static/projects/' +
+                      require('static/projects_data/' +
                         item.category +
                         '/' +
                         item.subcategory +
@@ -57,7 +57,7 @@
   </div>
 </template>
 <script>
-import imageDataList from '~/static/projects/imageData.json'
+import imageDataList from '~/static/projects_data/imageData.json'
 export default {
   name: 'ImageView',
   data() {

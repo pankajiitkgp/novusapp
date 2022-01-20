@@ -46,7 +46,7 @@
               <div class="card">
                 <img
                   :src="
-                    require('/static/projects/' +
+                    require('/static/projects_data/' +
                       item.category +
                       '/' +
                       item.subcategory +
@@ -80,7 +80,7 @@
 import FooterBar from '~/components/global/FooterBar.vue'
 import TitleBar from '~/components/global/TitleBar.vue'
 
-import imageDataList from '~/static/projects/imageData.json'
+import imageDataList from '~/static/projects_data/imageData.json'
 
 export default {
   name: 'AboutPage',

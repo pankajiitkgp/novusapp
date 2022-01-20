@@ -8,7 +8,7 @@
       <div class="card">
         <img
           :src="
-            require('/static/projects/' +
+            require('/static/projects_data/' +
               item.category +
               '/' +
               item.subcategory +
